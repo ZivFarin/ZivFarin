@@ -13,14 +13,6 @@ Currently building large-scale cloud and analytics platforms using Kotlin, Pytho
 - Kubernetes-based workloads
 - AWS infrastructure managed with Terraform
 
-## 🌱 Currently Learning
-
-- Advanced Kubernetes patterns
-- Platform Engineering
-- Go
-- Distributed Systems
-- CNCF ecosystem projects
-
 ## 💼 Experience
 
 ### Innovid
@@ -36,13 +28,13 @@ Building cloud-native and data-intensive systems using:
 - Terraform
 
 ### Previously: CVAid Medical
-Developed software supporting stroke treatment workflows and clinical operations.
+Developed mobile app & backend supporting stroke treatment workflows and clinical operations.
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-`Kotlin` `Python` `C#` `Go` `SQL`
+`Kotlin` `Python` `C#` `SQL`
 
 **Cloud & Infrastructure**
 
@@ -50,7 +42,7 @@ Developed software supporting stroke treatment workflows and clinical operations
 
 **Data**
 
-`Snowflake` `dbt`
+`Snowflake` `dbt` `mongoDB`
 
 ## 🚀 Interests
 
@@ -59,7 +51,7 @@ Developed software supporting stroke treatment workflows and clinical operations
 - Platform Engineering
 - Cloud Native Technologies
 - Networking
-- IPFS & Decentralized Systems
+- IPFS & Decentralized Systems (P2P)
 - Homelabs
 
 ## 📫 Connect
